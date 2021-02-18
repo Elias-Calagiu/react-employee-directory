@@ -1,5 +1,5 @@
 import axios from "axios";
-const BASEURL = 'https://randomuser.me/api/?results=5000';
+const BASEURL = 'https://randomuser.me/api/?inc=name,email,cell,picture&results=20&nat=us';
 
 
 export default {
