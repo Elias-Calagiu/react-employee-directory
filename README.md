@@ -1,1 +1,28 @@
 # react-employee-directory
+## Description
+
+This application will help to view entire employee directory and allows to search for specific employees
+
+## Table of Contents
+
+*[Installation](#installation)
+
+*[Usage](#usage)
+
+*[License](#license)
+
+*[Screenshot](#screenshot)
+
+## Installation
+
+App is available to use at  and https://github.com/Elias-Calagiu/notetaker.
+
+## Usage
+
+Once on https://stark-everglades-80427.herokuapp.com/notes, 
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/) License
+
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/Elias-Calagiu/notetaker/main/Notetaker%20screenshot.PNG)
