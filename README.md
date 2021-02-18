@@ -15,11 +15,11 @@ This application will help to view entire employee directory and allows to searc
 
 ## Installation
 
-App is available to use at  and https://github.com/Elias-Calagiu/react-employee-directory.
+App is available to use at https://ec-react-employee-directory.herokuapp.com/ and https://github.com/Elias-Calagiu/react-employee-directory.
 
 ## Usage
 
-Once on https://stark-everglades-80427.herokuapp.com/notes, 
+Once on https://ec-react-employee-directory.herokuapp.com/, you will find a directory of all employees in the database. Use search input field to find an employee
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/) License
