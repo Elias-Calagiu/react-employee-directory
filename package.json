@@ -1,6 +1,7 @@
 {
-  "name": "react-employee-directory",
+  "name": "ec-employee-directory",
   "version": "0.1.0",
+  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
